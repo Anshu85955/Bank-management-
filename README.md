@@ -247,7 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue in the repository
-- Email: [your-email@example.com]
+- Email: [surajk86808@gmail.com]
 
 ## 🔄 Version History
 
