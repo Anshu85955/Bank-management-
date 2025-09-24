@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Anshu",
+        "age": 21,
+        "email": "anshu@gmail.com",
+        "Mob_no": 85759859579,
+        "pin": 1234,
+        "accountNo": 1234,
+        "balance": 0
+    },
+    {
+        "name": "Anshu Kumar",
+        "age": 23,
+        "email": "anshu@gmail.com",
+        "Mob_no": "08595508751",
+        "pin": 7590,
+        "accountNo": "O73GP00S@",
+        "balance": 0
+    }
+]
